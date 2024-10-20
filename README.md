@@ -79,4 +79,4 @@ Para entrar no mundo ficaria:
 
 Server name: Minecraft Server
 
-Server Address: 22.42.133.203
+Server Address: 22.42.133.203 (exemplo de IPv4)
