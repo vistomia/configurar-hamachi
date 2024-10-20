@@ -78,4 +78,5 @@ O endereço **IPv4** de um membro na rede Hamachi pode ser acessado por qualquer
 Para entrar no mundo ficaria:
 
 Server name: Minecraft Server
+
 Server Address: 22.42.133.203
